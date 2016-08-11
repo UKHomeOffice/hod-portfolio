@@ -5,22 +5,18 @@
     "directorate": "Cross Home Office",
     "location": "Croydon",
     "theme" : "Making decisions and issuing things",
-    "phase":"live",
-    "sro":"Derek Hobbs",
-    "service_man":"TBC",
+    "phase":"beta",
+    "sro":"Simon Wren",
+    "service_man":"Phil Ramdean",
     "phase-history":{
   "discovery": [
-    {"label":"Completed", "date": "September 2012"}
+    {"label":"Completed", "date": "January 2016"}
   ],
       "alpha": [
-    {"label":"Completed", "date": "December 2012"}
+    {"label":"Completed", "date": "April 2016"}
   ],
       "beta": [
-    {"label":"Private beta completed", "date": "July 2013"},
-    {"label":"Public beta released", "date": "October 2013"}
-  ],
-      "live": [
-    {"label":"Live service assessment", "date": "November 2014"}
+    {"label":"Private beta", "date": "Estimated start date October 2016"}
   ]
 },
   "priority":"Top",
